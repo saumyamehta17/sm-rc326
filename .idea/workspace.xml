@@ -35,7 +35,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+            <state line="42" column="0" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
@@ -45,9 +45,7 @@
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="17" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-              <folding>
-                <marker date="1399663429649" expanded="true" signature="464:1718" placeholder="development:" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,7 +98,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="3" selection-start="585" selection-end="585" vertical-scroll-proportion="0.93591905" vertical-offset="0" max-vertical-offset="690">
+            <state line="38" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.84822935" vertical-offset="67" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -116,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
@@ -124,6 +121,7 @@
         <option value="$PROJECT_DIR$/app/views/messages/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/messages/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/models/message.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -550,22 +548,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="17" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <folding>
-            <marker date="1399663429649" expanded="true" signature="464:1718" placeholder="development:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="22" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
@@ -608,9 +590,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="17" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="3" selection-start="585" selection-end="585" vertical-scroll-proportion="0.93591905" vertical-offset="0" max-vertical-offset="690">
+        <state line="38" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.84822935" vertical-offset="67" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
